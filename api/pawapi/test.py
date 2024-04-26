@@ -2,7 +2,7 @@ from models import User, Animal
 
 
 animals = [
-    {'name': 'Jack', 'species': 'Dog', 'age': 5, 'description': 'nice dog'},
+    {'name': 'Jack', 'species': 'Dog', 'age': 5, 'description': 'nice dog', 'url': },
     {'name': 'Whiskers', 'species': 'Cat', 'age': 3, 'description': 'playful kitty'},
     {'name': 'Buddy', 'species': 'Dog', 'age': 7, 'description': 'friendly companion'},
     {'name': 'Mittens', 'species': 'Cat', 'age': 1, 'description': 'curious kitten'},
